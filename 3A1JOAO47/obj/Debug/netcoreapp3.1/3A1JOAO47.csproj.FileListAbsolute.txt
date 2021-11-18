@@ -1,0 +1,21 @@
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\bin\Debug\netcoreapp3.1\3A1JOAO47.exe
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\bin\Debug\netcoreapp3.1\3A1JOAO47.deps.json
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\bin\Debug\netcoreapp3.1\3A1JOAO47.runtimeconfig.json
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\bin\Debug\netcoreapp3.1\3A1JOAO47.runtimeconfig.dev.json
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\bin\Debug\netcoreapp3.1\3A1JOAO47.dll
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\bin\Debug\netcoreapp3.1\3A1JOAO47.pdb
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\3A1JOAO47.csproj.AssemblyReference.cache
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\_3A1JOAO47.Frm_brinquedos - Cópia.resources
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\_3A1JOAO47.Frm_brinquedos.resources
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\_3A1JOAO47.Frm_categoria.resources
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\_3A1JOAO47.Frm_login.resources
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\3A1JOAO47.csproj.GenerateResource.cache
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\3A1JOAO47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\3A1JOAO47.AssemblyInfoInputs.cache
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\3A1JOAO47.AssemblyInfo.cs
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\3A1JOAO47.csproj.CoreCompileInputs.cache
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\3A1JOAO47.csproj.CopyComplete
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\3A1JOAO47.dll
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\3A1JOAO47.pdb
+C:\Users\groch\OneDrive\Área de Trabalho\3A1JOAO47\3A1JOAO47\obj\Debug\netcoreapp3.1\3A1JOAO47.genruntimeconfig.cache
